@@ -1,3 +1,7 @@
+![features](01-feature-deep-dive-.jpg)
+![modes](02-vibe-vs-calm-mode-.jpg)
+![before after](03-before-after.jpg)
+
 # Metaman Dhyaan — Two Modes, One Device
 Concept, not an official Meta product. Designed in Delhi.
 
