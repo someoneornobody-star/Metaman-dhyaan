@@ -1,6 +1,6 @@
 # Metaman-dhyaan - Two Modes, One Device
 ### Chai-proof elderly companion bust, Llama-powered, for night safety & dementia calm. Vibe + Calm Mode. Designed in Delhi. Concept, not official Meta product.
-> **LIVE UPDATE 12 Oct:** V2 VIBE HUB Added - Same hardware, RGB OTA update.
+> **LIVE UPDATE 7 Oct:** V2 VIBE HUB Added - Same hardware, RGB OTA update.
 See [Llama Cookbook Issue #1082](https://github.com/meta-llama/llama-cookbook/issues/1082) (Open)
 
 **Idea & Concept: Rajan | Visualized with help of Meta AI**
@@ -8,7 +8,7 @@ See [Llama Cookbook Issue #1082](https://github.com/meta-llama/llama-cookbook/is
 ### Evolution Log
 - v1.0 (1 Oct): Care Hub only - mailed to accessibility@meta.com
 - v1.5 (4 Oct): Issue #1082 posted
-- v2.0 (12 Oct): Dual Market - Care for Accessibility + Vibe for Meta Store
+- v2.0 (7 Oct): Dual Market - Care for Accessibility + Vibe for Meta Store
 
 ### V1 CARE HUB - 10:30 PM Amber
 ![Feature Deep Dive](01-feature-deep-dive.jpg)
