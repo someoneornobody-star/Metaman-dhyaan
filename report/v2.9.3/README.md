@@ -3,7 +3,7 @@
 
 > Concept Only • Privacy First • Not an official Meta product
 > First Published: 1 Oct 2026 via accessibility@meta.com | Llama Issue #1082: 4 Oct 2026
-> v2.8 LIVE: 8 Oct 2026 (11 Slides) | v2.9.3 PRIVATE BUMP: 10 Oct 2026
+> v2.8 LIVE: 8 Oct 2026 (11 Slides) | v2.9.3 LIVE: 9 Oct 2026
 
 ### WHAT IS IT?
 India ka pehla Chai-Proof, Wipe-Clean, IP54 Wellness Charging Shrine.
@@ -94,10 +94,6 @@ Dadi ke liye 2:14 AM ka solution - Time + Dim Light + Charged Phone + Glasses ek
 - Qi Pad: Sealed coil + Gutter + Nano + Auto Cut-off
 - Bottom Vents: Labyrinth + Mesh = IP54 pass
 - Claim: "Vents at bottom, chai falls on top. Physics."
-
-## FOR LLAMA ISSUE #1082 BUMP ON 13 OCT
-
-"Update v2.9.3: Added passive cooling - Aluminium Thermal Plate + Chimney Micro-Vents (bottom-placed labyrinth + PTFE mesh, no fan, IP54 intact, silent). Fixes heat from dual Qi2 15W charging. Added Chai Gutter System (raised TPU lip + spill channels + nano coating + liquid auto cut-off) - Qi pad now true wipe-clean & chai-proof, no short. Motion Sensing Infinity Glow upgraded from IR for privacy (no camera/IR/cloud). Keeps 35C warmth spot safe + silent for elderly. Concept only. See updated README + X-Ray slide. Concept Only • Privacy First"
 
 ## SLIDES
 
