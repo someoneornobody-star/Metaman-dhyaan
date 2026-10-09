@@ -12,7 +12,7 @@ Dadi ke liye 2:14 AM ka solution - Time + Dim Light + Charged Phone + Glasses ek
 **Tagline:** "Itne saare gadgets ka jhamela khatam, bas ek Metaman and you are sorted"
 
 ### HERO SHOT - v2.9.3 X-RAY VIEW
-[Add your new X-Ray slide here - 2:14 AM Transparent View]
+   ![X-Ray View](12-X-ray.jpg)
 - Floating 12mm Base with Infinity Glow and Logo Projection
 - 2:14 AM Clock (Date + Time + Temp on same display)
 - Nose Bridge Coil for Smart Glasses Charging
