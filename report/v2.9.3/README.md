@@ -104,3 +104,5 @@ Dadi ke liye 2:14 AM ka solution - Time + Dim Light + Charged Phone + Glasses ek
 Concept Only • Privacy First • Wellness Charging Shrine
 Built for Dadi, Loved by GenZ
 
+![Thermal Fix - Aluminium Plate + Chimney Vents](13-Thermal-POWER.jpg)
+**NEW in v2.9.3:** Passive cooling - Aluminium Thermal Plate + Chimney Micro-Vents (PTFE mesh, IP54 intact, no fan)
