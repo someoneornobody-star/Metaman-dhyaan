@@ -1,3 +1,6 @@
+# METAMAN Dhyaan - Concept by Rajan | Concept Collaborator - Meta Platforms (Licensing in progress)
+> Licensed under CC BY-NC 4.0 - Commercial use, production or derivative products require explicit permission from the author. Contact for licensing: getrajanchitkara@gmail.com
+
 # METAMAN DHYAAN v2.8 MEGA FINAL
 11 Slides - Dark Edition - 8 Oct 2026 15 in 1 Replaces 15 Gadgets
 
