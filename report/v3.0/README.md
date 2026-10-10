@@ -1,3 +1,5 @@
+# METAMAN Dhyaan - Independent Concept by Rajan | Proposed for Meta Platforms (Licensing Discussion)
+> Licensed under CC BY-NC 4.0 - Commercial use, production or derivative products require explicit permission from the author. Contact for licensing: [tera email]
 # METAMAN-DHYAAN - v3.0 FINAL
 > Last Updated: 10 October 2026 - v3.0 FINAL
 > Status: Concept Only · Privacy First · NOT an official Meta product
