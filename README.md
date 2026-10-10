@@ -1,4 +1,4 @@
-# METAMAN Dhyaan - Concept by Rajan | Concept Collaborator - Meta Platforms (Licensing in progress)
+# METAMAN Dhyaan - Independent Concept by Rajan | Proposed for Meta Platforms (Licensing Discussion)
 > Licensed under CC BY-NC 4.0 - Commercial use, production or derivative products require explicit permission from the author. Contact for licensing: getrajanchitkara@gmail.com
 
 # METAMAN DHYAAN v2.8 MEGA FINAL
