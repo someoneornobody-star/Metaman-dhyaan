@@ -1,3 +1,5 @@
+# METAMAN Dhyaan - Independent Concept by Rajan | Proposed for Meta Platforms (Licensing Discussion)
+> Licensed under CC BY-NC 4.0 - Commercial use, production or derivative products require explicit permission from the author. Contact for licensing: [tera email]
 # METAMAN DHYAAN - Wellness Charging Shrine (Concept Only)
 ### From 7 Cables to 1 Dhyaan | 20 Features Live, 23 Features Ready
 
