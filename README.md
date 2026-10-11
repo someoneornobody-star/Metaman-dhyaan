@@ -8,6 +8,14 @@ A complete privacy-first ecosystem for Care, Vibe & Well-being — and a dedicat
 
 > **Evolution:** Evolved from early glasses concept (Oct 1) to warranty-safe clip-on accessories (SOS for Elderly & BUZZ for younger generation) + Home & Dock concept (METAMAN) for Ray-Ban Meta glasses - 15 Gadgets in 1 neat assembly bundled with a Remote.
 
+### Core Design Principles
+
+**1. Privacy-First by Design:** Bust has no camera. Vision is only via docked Meta Glasses, and only with explicit user consent.
+
+**2. One Intent, Three Touchpoints:** "Dil Se Poocho" on Bust, Remote, and App triggers the same event (`METAMAN.ASK`). Answer routing is user-selectable: Bust Speaker or Mobile Phone.
+
+**3. Home for Glasses:** Solves "out of sight while charging, out of mind" — glasses stay visible, charged, and used.
+
 ### METAMAN DHYAAN v3.0 FINAL - 10 Oct 2026 [Latest]
 
 ### Archive: METAMAN DHYAAN v2.8 MEGA FINAL
